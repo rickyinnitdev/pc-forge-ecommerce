@@ -1,0 +1,50 @@
+[
+  {
+    "name": "SkyTech Blaze Gaming PC",
+    "category": "Gaming PCs",
+    "price": 1299.99,
+    "description": "Gaming desktop with Ryzen 5, RTX 4060, 16GB RAM, and 1TB NVMe SSD.",
+    "image_url": "https://images.unsplash.com/photo-1587202372616-b43abea06c2a?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 12
+  },
+  {
+    "name": "Dell Vostro Office Tower",
+    "category": "Office PCs",
+    "price": 699.99,
+    "description": "Efficient office desktop for spreadsheets, meetings, and daily admin work.",
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 20
+  },
+  {
+    "name": "Intel Core i5-14600K",
+    "category": "Components",
+    "price": 319.99,
+    "description": "14th Gen desktop processor with strong gaming and creator performance.",
+    "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 35
+  },
+  {
+    "name": "Samsung 990 PRO 1TB NVMe SSD",
+    "category": "Components",
+    "price": 109.99,
+    "description": "Fast Gen4 NVMe SSD for quick boot times and game loading.",
+    "image_url": "https://images.unsplash.com/photo-1600348712270-5af9e3590f66?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 50
+  },
+  {
+    "name": "AOC 24G2 24-inch Gaming Monitor",
+    "category": "Accessories",
+    "price": 189.99,
+    "description": "Full HD IPS monitor with high refresh rate for smooth gameplay.",
+    "image_url": "https://images.unsplash.com/photo-1616763355548-1b606f439f86?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 16
+  },
+  {
+    "name": "Razer DeathAdder V3 Mouse",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "Ergonomic lightweight gaming mouse with precise optical sensor.",
+    "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=1200&q=80",
+    "stock_quantity": 28
+  }
+]
