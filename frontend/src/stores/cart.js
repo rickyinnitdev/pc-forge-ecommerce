@@ -4,7 +4,7 @@ import api from "../services/api";
 function getSessionId() {
   let id = localStorage.getItem("session_id");
   if (!id) {
-    id = crypto.randomUUID();
+    id = Math.random().toString(36).substring(2) + Date.now().toString(36);
     localStorage.setItem("session_id", id);
   }
   return id;
